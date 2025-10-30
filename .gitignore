@@ -1,0 +1,14 @@
+# STM32CubeIDE Build-Ordner
+Debug/
+Release/
+
+# C/C++ Build-Artefakte
+*.o
+*.d
+*.map
+*.elf
+*.bin
+*.hex
+
+# Eclipse Metadaten (optional, aber empfohlen)
+.metadata/
