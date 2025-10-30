@@ -10,6 +10,8 @@ int main(void){
 
 	GPIOA->MODER |= (1U << 10);
 
-	GPIOA->BSRR = (1U << 5); //
+	GPIOA->BSRR = (1U << 5);
+
+	// Small change
 
 }
